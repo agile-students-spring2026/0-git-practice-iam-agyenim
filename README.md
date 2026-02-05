@@ -10,3 +10,7 @@ I found this article interesting because it explains how artificial intelligence
 
 What also stood out to me is that the article does not present AI as a replacement for developers. Instead, it emphasizes collaboration between humans and machines. It discusses both the benefits and the challenges, such as over-reliance on AI and the need for developers to still understand the code they write. This made the article feel balanced and realistic, especially for the future of software engineering careers.
 
+## Comments from Other Students
+
+*Add your comments about my article here!*
+
